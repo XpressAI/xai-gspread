@@ -1,15 +1,1 @@
-certifi==2024.12.14
-charset-normalizer==3.4.0
-idna==3.10
-urllib3==2.2.3
-pyasn1==0.6.1
-oauthlib==3.2.2
-requests==2.31.0
-cachetools==5.5.0
-pyasn1-modules==0.4.1
-google-auth==2.37.0
-rsa==4.9
-requests-oauthlib==2.0.0
-google-auth-oauthlib==1.2.1
-packaging==23.2
 gspread==6.1.4
